@@ -1,5 +1,5 @@
 {
-  "name": "primermodulonpm",
+  "name": "@danto_lar1708/primermodulonpm",
   "version": "1.0.0",
   "description": "Ejercicio correspondiente a la creación de un modulo NPM.",
   "main": "index.js",
