@@ -1,0 +1,19 @@
+{
+  "name": "primermodulonpm",
+  "version": "1.0.0",
+  "description": "Ejercicio correspondiente a la creación de un modulo NPM.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntoLara/PrimerModuloNPM.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntoLara/PrimerModuloNPM/issues"
+  },
+  "homepage": "https://github.com/AntoLara/PrimerModuloNPM#readme"
+}
